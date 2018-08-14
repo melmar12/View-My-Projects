@@ -1,5 +1,4 @@
 # Projects
-All my noteworthy projects. Enjoy! 
 
 ### 1. For Client, Providence Treatment Center Website - [Repo](https://github.com/melmar12/Vendit_v2) - [Live](http://www.providencetreatmentcenter.com/)
   * PTC is a private day school for special needs students. The goal of this new website was to make the school reachable to new visitors and keep parents of currents students up to date. This site started off as a static HTML/CSS/JavaScript webpage that I converted into a Rails app in order to add the capability to create and manage data using Rails Active Record. The client wanted the ability to create 'announcements' (to alert of a school closure for example). The web app also hosts downloadable and printable documents stored on the cloud using AWS s3 buckets. Secure admin login functionality exists for managing these alerts and documents.
