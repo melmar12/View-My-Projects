@@ -26,6 +26,6 @@
    * [Udemy](https://www.udemy.com/the-complete-node-js-developer-course/learn/v4/overview) course project
    * **Highlights:** Node.js
    
-* ### CSS-flexbox Project - [Repo](https://github.com/melmar12/LlamaDrama/blob/master/README.md) - [Live](hhttp://melmar12.github.io/LlamaDrama/)
+* ### CSS-flexbox Project - [Repo](https://github.com/melmar12/LlamaDrama/blob/master/README.md) - [Live](http://melmar12.github.io/LlamaDrama/)
    * showcases a responisve grid layout
    * **Highlights:** CSS flex-box
