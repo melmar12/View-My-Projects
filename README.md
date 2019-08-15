@@ -6,9 +6,9 @@
   * The backend API receives a JSON string as a search query and responds with a JSON object containing the results.
   * Both backend and frontend run concurrently on a server hosted on Heroku
   * Database uses Mongo DB hosted on Atlas
-  * **Tools Used:** Ract, JavaScript, Node.js, JSON, Mongo db, Express.js, Heroku
+  * **Tools Used:** React, JavaScript, Node.js, JSON, Mongo db, Express.js, Heroku
   
-* ### For Client, School Website - [Repo](https://github.com/melmar12/Vendit_v2) - [Demo](http://www.providencetreatmentcenter.com/)
+* ### School Website, for a Client - [Repo](https://github.com/melmar12/Vendit_v2) - [Demo](http://www.providencetreatmentcenter.com/)
   *	Uses Ruby on Rails web-app framework
   *	Rails Active Record is used to store alerts and user data
   * Alerts can be managed and posted to the site by an admin 
